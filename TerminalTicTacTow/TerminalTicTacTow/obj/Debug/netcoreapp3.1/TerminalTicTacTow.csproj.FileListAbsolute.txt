@@ -1,0 +1,11 @@
+C:\Users\Katballes boi\source\repos\TerminalTicTacTow\TerminalTicTacTow\bin\Debug\netcoreapp3.1\TerminalTicTacTow.exe
+C:\Users\Katballes boi\source\repos\TerminalTicTacTow\TerminalTicTacTow\bin\Debug\netcoreapp3.1\TerminalTicTacTow.deps.json
+C:\Users\Katballes boi\source\repos\TerminalTicTacTow\TerminalTicTacTow\bin\Debug\netcoreapp3.1\TerminalTicTacTow.runtimeconfig.json
+C:\Users\Katballes boi\source\repos\TerminalTicTacTow\TerminalTicTacTow\bin\Debug\netcoreapp3.1\TerminalTicTacTow.runtimeconfig.dev.json
+C:\Users\Katballes boi\source\repos\TerminalTicTacTow\TerminalTicTacTow\bin\Debug\netcoreapp3.1\TerminalTicTacTow.dll
+C:\Users\Katballes boi\source\repos\TerminalTicTacTow\TerminalTicTacTow\bin\Debug\netcoreapp3.1\TerminalTicTacTow.pdb
+C:\Users\Katballes boi\source\repos\TerminalTicTacTow\TerminalTicTacTow\obj\Debug\netcoreapp3.1\TerminalTicTacTow.AssemblyInfoInputs.cache
+C:\Users\Katballes boi\source\repos\TerminalTicTacTow\TerminalTicTacTow\obj\Debug\netcoreapp3.1\TerminalTicTacTow.AssemblyInfo.cs
+C:\Users\Katballes boi\source\repos\TerminalTicTacTow\TerminalTicTacTow\obj\Debug\netcoreapp3.1\TerminalTicTacTow.dll
+C:\Users\Katballes boi\source\repos\TerminalTicTacTow\TerminalTicTacTow\obj\Debug\netcoreapp3.1\TerminalTicTacTow.pdb
+C:\Users\Katballes boi\source\repos\TerminalTicTacTow\TerminalTicTacTow\obj\Debug\netcoreapp3.1\TerminalTicTacTow.csprojAssemblyReference.cache
